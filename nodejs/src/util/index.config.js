@@ -70,6 +70,10 @@ var index_config_default = {
   wogg: {
     url: "https://www.wogg.net"
   },
+  mogg: {
+    url:"http://mo.muouso.fun"
+    //木偶[盘]
+  },
   tudou: {
     url: "https://tudou.lvdoui.top"
   },
