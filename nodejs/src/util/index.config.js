@@ -72,7 +72,6 @@ var index_config_default = {
   },
   mogg: {
     url: "http://mo.muouso.fun"
-    //木偶[盘]
   },
   tudou: {
     url: "https://tudou.lvdoui.top"
