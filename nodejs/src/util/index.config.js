@@ -37,7 +37,7 @@ var index_config_default = {
     thread: "6",
     chunkSize: "256",
     //实际为256KB
-    cookie: ""
+    cookie: "_UP_A4A_11_=wb96c1fee4324480914f400b38653e09; _UP_D_=pc; b-user-id=ce029465-8f3f-6ad6-83bc-648342b073a2; __sdid=AARM9s/rGR7wJZWwq2AMTcCfnG2EG4BR3CJ8hiEba4/T1om8KX99uxNM8SHcJL/cX2Lg9b3vGXAnFcPeeKqGJBDQxbNdrmDqx3tbk0qDQHvZFw==; xlly_s=1; isg=BPX1tRW7_sTrXBp4742t_qAnBHGvcqmEmZC-Cncc3GwDTgFAP8LKVC6NnRL4RsE8; tfstk=gOtjRabmSSVj_IhMrIDPOK9I46j_lYoEXR69KdE4BiIvBGO5atzqoNl6PCdPMoSxsuI6TOEY6fqTw_dOssIwusW9NddxnOkcD0eJTBMDusHGy8d9_lLqSoeDrBJL0nucblscjGhETDoFnKjGX82spGzc2OWIblBxzgU9nnvKTDoeHqBcbLhe0GymS_XOXtITXTH5BOZOXNCTwY6OQSUTDCHWe_Xg6OBOkzCRL9XAXGd9eY6hw1IOkvPzVTqlaKMbVQ_dPRc9e_ZTX36Ss6pbfuBMltONtKIgtWDdhZ1pH_G3-H91ydb6jRq1MKLHs9dYMbfw8L-APGgUs1TwHn-fjR4WFNt2SNtmpWfBkLt10IGQS6L2egCDkfzAMnvFVFQSHmp5csOHDIiIwBQB0Fb6mvFhOEpWfi-jQrXDyIj5EhluD1TJWn7cjShl_eJyDasd4orFOlw058_3fT1EFYagSRof4JeUaKTNkTXPTYM78x_AET1EFYagSZBlE8kSFykf.; __pus=42422b529b1fed0768598899e2543e3aAAQMc5VoS+9otPKisK8vff4JeARiFAMHSLiEKc9V7E7vWbIsicG0eyJB9ADi7htyNrTcCJbvAQS/at4fcnT1b2MN; __kp=f7e61c20-c5b5-11ef-b9b7-f1005d2ba02a; __kps=AAQWFZNv/McpvmDa+j8ahkG3; __ktd=rejXLZzaQt9Lj3kbneiGnw==; __uid=AAQWFZNv/McpvmDa+j8ahkG3; __puus=1a07c92d484ba1de358459a9f54e05bdAAR37RBVsV935Bki7gdHoasKcvv3FFj9i/6JOPsfxRPYSN9eLB+egMzhlxHeWbjzJ/p+kDZyvBSzDKNadjDibGkrZXIUVBAWS7oKM4Vv9Jj6KuYFwMayaH1h2gYKr5WhdauwK+5Y5Ngcz1hT4yV8AJMiZAKSbNw13i6UsYU/QiiqnO2ioIY/94TAv1VmQqNGbxz4Zvawt4ulyppogE46EfGV"
   },
   uc: {
     cookie: ""
